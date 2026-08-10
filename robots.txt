@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: bonusy-dlya-postoyannyh.github.io
+Sitemap: https://bonusy-dlya-postoyannyh.github.io/sitemap.xml
